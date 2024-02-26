@@ -1,0 +1,71 @@
+body{
+    background-color:black;
+}
+
+.container1{
+    display: flex;
+    justify-content:center;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
+.box1{
+    height: 353.95px;
+    width:833px;
+    background-color: aqua;
+    font-size: 20px ;
+    word-spacing: 5px;
+    line-height: 1.5;
+    font-style: oblique;
+    font-weight:bold;
+    border-radius:3px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+}
+
+
+.ingredients{
+    height: 353.95px;
+    width:757px;
+    border-radius: 3px;
+}
+
+.box2{
+    height:353.95px;
+    width: 833px;
+    background-color:red;
+    border-radius:3px;
+    margin-left:3px;
+    margin-bottom: 3px;
+}
+
+.box3{
+    height: 353.95px;
+    width: 833px;
+    background-color: orange;
+    border-radius:3px;
+    margin-right: 3px;
+    margin-top: 3px;
+}
+
+.maggie{
+    height: 353.95px;
+    width: 757px;
+    border-radius: 3px;
+}
+
+.box4{
+    height: 353.95px;
+    width: 833px;
+    background-color:yellow;
+    border-radius:3px;
+    margin-left: 3px;
+    margin-top: 3px;
+    text-align: center;
+    font-size: 35px;
+    font-style: oblique;
+    font-weight: bolder;
+}
